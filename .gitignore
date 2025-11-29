@@ -1,0 +1,11 @@
+# Common Python files
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# macOS/Linux generated files
+.DS_Store
+
+# Editor/IDE files (e.g., VS Code)
+.vscode/
